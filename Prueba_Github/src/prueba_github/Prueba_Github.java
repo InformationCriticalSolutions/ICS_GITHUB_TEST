@@ -6,5 +6,6 @@ public class Prueba_Github {
         System.out.println("Este es el comienzo de la prueba");
         System.out.println("La resta de 2-2 es " + 2);
         System.out.println("La suma de 2+2 es " + 2);
+        System.out.println("Nuevo Cambio");
     }
 }
