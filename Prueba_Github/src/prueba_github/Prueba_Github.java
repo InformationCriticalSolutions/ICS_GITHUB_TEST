@@ -10,6 +10,8 @@ public class Prueba_Github {
         System.out.println("Nuevo Cambio número 2");
         System.out.println("Francia campeón");
         System.out.println("Croacia no campeón");
+        System.out.println("Primer cambio de Gabriel.");        
+        System.out.println("Segundo cambio de Gabriel.");
         System.out.println("Cambio de Alex");
     }
 }
